@@ -1,4 +1,4 @@
-### Hi there :metal:
+### Hi there, Live Long and Prosper 🖖🏾
 
 <!--
 **gajakannan/gajakannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
