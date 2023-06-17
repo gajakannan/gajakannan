@@ -1,6 +1,4 @@
-![Snake animation]
-
-(https://github.com/gajakannan/gajakannan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gajakannan/gajakannan/blob/output/github-contribution-grid-snake.svg)
 
 ### Hi there, Live Long and Prosper 🖖🏾
 
