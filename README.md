@@ -1,3 +1,7 @@
+![Snake animation]
+
+(https://github.com/gajakannan/gajakannan/blob/outptu/github-contribution-grid-snake.svg)
+
 ### Hi there, Live Long and Prosper 🖖🏾
 
 <!--
