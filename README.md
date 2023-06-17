@@ -1,6 +1,6 @@
-![Snake animation](https://github.com/gajakannan/gajakannan/blob/output/github-contribution-grid-snake.svg)
-
 ### Hi there, Live Long and Prosper 🖖🏾
+
+![Snake animation](https://github.com/gajakannan/gajakannan/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **gajakannan/gajakannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
