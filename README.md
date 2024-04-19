@@ -2,6 +2,8 @@
 
 ![Snake animation](https://github.com/gajakannan/gajakannan/blob/output/github-contribution-grid-snake-dark.svg)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gajakannan&theme=radical
+
 <!--
 **gajakannan/gajakannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
