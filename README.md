@@ -1,4 +1,6 @@
-### Hi there, Live Long and Prosper 🖖🏾
+<p align="center">
+  <img src="https://github.com/gajakannan/gajakannan/raw/master/llap.gif" alt="Hi there, Live Long and Prosper 🖖🏾">
+</p>
 
 ![Snake animation](https://github.com/gajakannan/gajakannan/blob/output/github-contribution-grid-snake-dark.svg)
 
