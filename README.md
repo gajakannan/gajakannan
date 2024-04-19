@@ -5,6 +5,7 @@
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gajakannan&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajakannan&&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=4)
 
 ---
 
