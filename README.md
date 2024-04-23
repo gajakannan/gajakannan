@@ -7,10 +7,10 @@
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gajakannan&theme=holi-theme&hide_border=true&fire=EB5454)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajakannan&&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=4)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gajakannan&&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=4)
 
 ---
-
+![Metrics](https://github.com/gajakannan/gajakannan/raw/master/github-metrics.svg)
 <!--
 **gajakannan/gajakannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
