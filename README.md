@@ -11,6 +11,10 @@
 
 ---
 ![Metrics](https://github.com/gajakannan/gajakannan/raw/main/github-metrics.svg)
+
+---
+<figure><embed src="https://wakatime.com/share/@018ef403-2f3e-4def-8f6e-41c17a93cd7d/47bc0dc3-9c6e-490a-80e8-ee2952f8a5fb.svg"></embed></figure>
+
 <!--
 **gajakannan/gajakannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
