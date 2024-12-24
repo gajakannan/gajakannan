@@ -2,9 +2,9 @@
   <img src="https://github.com/gajakannan/gajakannan/raw/main/llap.gif" alt="Hi there, Live Long and Prosper 🖖🏾">
 </p>
 
-
+<!--
 ![Snake animation](https://github.com/gajakannan/gajakannan/blob/output/github-contribution-grid-snake-dark.svg)
-
+-->
 
 ---
 <!--
