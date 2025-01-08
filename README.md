@@ -6,8 +6,8 @@
 ![Snake animation](https://github.com/gajakannan/gajakannan/blob/output/github-contribution-grid-snake-dark.svg)
 -->
 
----
 <!--
+---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gajakannan&theme=holi-theme&hide_border=true&border_radius=0&fire=55B3EB)](https://git.io/streak-stats)
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gajakannan&&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=4)
 -->
