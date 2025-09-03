@@ -19,10 +19,11 @@
 -->
 
 ---
+<!--
 <p align="center">
   <img src="https://github.com/gajakannan/gajakannan/raw/main/github-metrics.svg">
 </p>
-
+-->
 
 <!--
 
